@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **jmgrant1995@gmail.com**
 
-- ⚡ What's the secret to a good toastie **Butter on the outside, good bread and a nice chilli jam**
+- ⚡ The secret to a good toastie, you ask? **Butter on the inside, butter on the outside**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
