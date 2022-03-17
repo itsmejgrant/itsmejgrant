@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Joe</h1>
 <h3 align="center">A frontend developer, skateboarder and self-proclaimed toastie aficionado</h3>
 
-- 🔭 I’m currently working on **rebuilding my portfolio with Next.js**
+- 🔭 I’m currently working on **rebuilding my portfolio with Next.js and learning Laravel**
 
-- 🌱 I’m interested in **React, TypeScript and the inner workings of CSS**
+- 🌱 I’m interested in **React, TypeScript, the inner workings of CSS, Statamic.**
 
-- 📫 How to reach me **jmgrant1995@gmail.com**
+- 📫 You can reach me at **jmgrant1995@gmail.com**
 
 - ⚡ The secret to a good toastie, you ask? **Butter on the inside, butter on the outside**
 
